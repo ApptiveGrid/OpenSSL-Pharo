@@ -1,1 +1,1 @@
-SystemOrganization addCategory: #'OpenSSL-Core'!
+self packageOrganizer ensurePackage: #'OpenSSL-Core' withTags: #()!
